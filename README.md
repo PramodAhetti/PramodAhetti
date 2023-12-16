@@ -13,10 +13,8 @@
 
 ### 🤔 &nbsp;Here's some fun facts about me
 
-- 🔭 I’m currently working on React and NextJS Projects
-- 🌱 I've 3+ years of professional experience
+- 🔭 I’m currently working on React Projects
 - 👯 I’m looking to collaborate on JavaScript Projects
-- 🤔 I’m also working as a Freelancer at Upwork.
 - 💬 Ask me about Web development
 </br>
 
